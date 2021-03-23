@@ -38,6 +38,30 @@ function pageLoad() {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   //Ide írjuk a feladatot!
 
   const sumOfWithdrawalsByTeengagers = (persons) => {
