@@ -36,3 +36,9 @@ function pageLoad() {
 }
 
 window.addEventListener('load', pageLoad)
+
+
+/*
+Write a function (sumOfWithdrawalsByTeengagers) which takes an array of transactions described in the schema above,
+and returns the sum of the withdrawals made bye users who are younger than 20.
+*/
