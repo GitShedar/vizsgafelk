@@ -1,5 +1,5 @@
 function pageLoad() {
-  [
+  const persons = [
     {
       "user": { "name": "Kovács Béla", "age": 25 },
       "type": "withdraw",
@@ -33,12 +33,43 @@ function pageLoad() {
   ]
 
 
+
+
+
+
+
+  //Ide írjuk a feladatot!
+
+  const sumOfWithdrawalsByTeengagers = (persons) => {
+
+  }
+
+
+  /*
+  Write a function (sumOfWithdrawalsByTeengagers) which takes an array of transactions described in the schema above,
+  and returns the sum of the withdrawals made bye users who are younger than 20.
+  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  sumOfWithdrawalsByTeengagers(persons);
 }
 
 window.addEventListener('load', pageLoad)
-
-
-/*
-Write a function (sumOfWithdrawalsByTeengagers) which takes an array of transactions described in the schema above,
-and returns the sum of the withdrawals made bye users who are younger than 20.
-*/
